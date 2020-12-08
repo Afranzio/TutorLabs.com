@@ -1,0 +1,86 @@
+MySQL Instruction
+
+step 01 : MySQL Download ==> https://dev.mysql.com/downloads/file/?id=499590
+step 02 : Install MySQL Workbench ==> https://dev.mysql.com/downloads/file/?id=498730
+step 03 : Create Database in Name : Vorkinsta
+step 04 : Import sql script to Vorkinsta, mysql -u username -p database_name < file.sql
+
+==========================================================================================
+Stucked in upgrade sql
+
+Open SQL CMD PRMOPT:
+	ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+	flush privileges;
+
+============================================================================================
+
+Work with server file
+step 05 : Change host, port, username, password in .env and config file.
+
+step 06 : Restart the server
+
+
+#############################################################################################
+1: Login
+URL:POST   http://localhost:3000/api/user/login 
+ JSON: {
+    "email_id": "akash@gmail.com",
+    "password": "akash#123"
+}
+
+2: Forget password
+URL: POST http://localhost:3000/api/user/forget-password
+JSON:
+{
+    "emailId": "akashpoll215@gmail.com",
+    "newPassword": "akash#123",
+    "confirmPassword": "akash#123"
+}
+
+3: User SignUp
+URL:POST  http://localhost:3000/api/user/register
+JSON: 
+{
+    "emailId": "mahesh@gmail.com",
+    "profileId": 1,
+    "userPassword": "akash#123",
+    "confirmPassword": "akash#123"
+}
+Note: ProfileId = 1 for freelancer 2 for client
+
+4: Masterlist country
+Url: GET http://localhost:3000/api/masterlist/country
+
+5: Masterlist state
+Url: GET http://localhost:3000/api/masterlist/state/3
+pass parameter as country id
+
+6: Create profile
+Url: POST http://localhost:3000/api/user/create-profile
+Json: 
+
+
+{
+    "id": 14,
+    "first_name": "Kunal",
+    "last_name": "Jadhav",
+    "country_id": "2",
+    "state_id": "5",
+    "mobile_number": "9234567891",
+    "skype_id": "akash2727",
+    "skills": {
+        "userId": 11,
+        "skills": [
+            "Java", "Javascript", "C++"
+        ]
+    },
+    "experience": " 3 Years",
+    "current_position": "Software developer",
+    "portfolio_link": "https://www.testurl.com/testlink.pdf",
+    "hours_per_week": "20 hours",
+    "resume_url": "https://www.testurl.com/testlink.pdf",
+    "bio": "Working as a software developer"
+}
+
+7: Profile search by keyword
+Url: GET http://localhost:3000/api/user/freelancer?keyword=backend
