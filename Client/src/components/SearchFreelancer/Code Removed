@@ -1,0 +1,17 @@
+Left Side
+
+<div className="left-side">
+    <h5 className="blue">My Feed</h5>
+    <h5 className="blue">Recommended</h5>
+    <div className="center">
+        <h5 className="blue">Skills I Need</h5>
+        <ul>
+            <li>Website Designing</li>
+            <li>Web & Mobile Design</li>
+            <li>Fronted Development </li>
+            <li>Machine Learning</li>
+            <li>Graphics & Design</li>
+            <li>Video Production</li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,23 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "A Simple IP Address API",
+    "title": "ipify",
+    "version": "v1"
+  },
+  "host": "css.org",
+  "schemes": ["http"],
+  "basePath": "/",
+  "paths": {
+    "/healthcheck": {
+      "get": {
+        "summary": "Get healthcheck response",
+        "responses": {
+          "200": {
+            "description": "Success response"
+          }
+        }
+      }
+    }
+  }
+}

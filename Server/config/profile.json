@@ -1,0 +1,22 @@
+{
+    "first_name": "Mayur",
+    "last_name": "Gujrathi",
+    "country_id": "2",
+    "state_id": "5",
+    "mobile_number": "9767099437",
+    "skype_id": "mayur2727",
+    "skills": {
+        "userId": 1,
+        "skills": [
+            "Angular",
+            "NodeJS",
+            "Javascript"
+        ]
+    },
+    "experience": " 3 Years",
+    "current_position": "Software developer",
+    "portfolio_link": "https://www.testurl.com/testlink.pdf",
+    "hours_per_week": "20 hours",
+    "resume_url": "https://www.testurl.com/testlink.pdf",
+    "bio": "Working as a software developer"
+}

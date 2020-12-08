@@ -1,0 +1,124 @@
+{"message":"Generic Error: connect ECONNREFUSED 127.0.0.1:3306","level":"error","timestamp":"2020-09-25 23:47:59"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-09-25 23:49:23"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-09-25 23:52:35"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-09-25 23:53:40"}
+{"message":"Generic Error: Table 'vorkinsta.users' doesn't exist","level":"error","timestamp":"2020-09-25 23:57:27"}
+{"message":"Generic Error: Table 'vorkinsta.users' doesn't exist","level":"error","timestamp":"2020-09-25 23:58:14"}
+{"message":"Generic Error: Unknown column 'created_at' in 'field list'","level":"error","timestamp":"2020-09-25 23:59:52"}
+{"message":"Error in saving connection status in DB: SequelizeDatabaseError: Table 'vorkinsta.user_connectivity_status' doesn't exist","level":"error","timestamp":"2020-09-25 23:59:59"}
+{"message":"Generic Error: Table 'vorkinsta.user_roles' doesn't exist","level":"error","timestamp":"2020-09-26 00:03:46"}
+{"message":"Generic Error: Unknown column 'roles.user_id' in 'field list'","level":"error","timestamp":"2020-09-26 00:05:04"}
+{"message":"Generic Error: Unknown column 'roles.user_id' in 'field list'","level":"error","timestamp":"2020-09-26 00:06:23"}
+{"message":"Generic Error: Unknown column 'created_at' in 'field list'","level":"error","timestamp":"2020-09-26 12:31:48"}
+{"message":"Generic Error: Unknown column 'updated_at' in 'field list'","level":"error","timestamp":"2020-09-26 12:35:08"}
+{"message":"Generic Error: Unknown column 'updated_at' in 'field list'","level":"error","timestamp":"2020-09-26 12:38:21"}
+{"message":"Generic Error: Unknown column 'updated_at' in 'field list'","level":"error","timestamp":"2020-09-26 12:38:51"}
+{"message":"Generic Error: Data too long for column 'password' at row 1","level":"error","timestamp":"2020-09-26 12:41:22"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials x13sm4493026pfj.199 - gsmtp","level":"error","timestamp":"2020-09-26 12:42:59"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials v13sm984093pjr.12 - gsmtp","level":"error","timestamp":"2020-09-26 12:48:58"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials y195sm4802308pfc.137 - gsmtp","level":"error","timestamp":"2020-09-26 12:52:28"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials j14sm983343pjz.21 - gsmtp","level":"error","timestamp":"2020-09-26 12:54:01"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials r1sm4036530pgl.66 - gsmtp","level":"error","timestamp":"2020-09-26 12:55:39"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials e19sm4036734pgt.43 - gsmtp","level":"error","timestamp":"2020-09-26 13:03:40"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials e17sm677827pgm.84 - gsmtp","level":"error","timestamp":"2020-09-26 13:08:59"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials c68sm4807908pfc.31 - gsmtp","level":"error","timestamp":"2020-09-26 13:11:11"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials a18sm3943577pgw.50 - gsmtp","level":"error","timestamp":"2020-09-26 13:13:01"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 22sm4739643pfw.17 - gsmtp","level":"error","timestamp":"2020-09-26 13:16:16"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials j4sm4780588pfd.101 - gsmtp","level":"error","timestamp":"2020-09-26 13:17:36"}
+{"message":"Generic Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials r4sm1064874pjf.4 - gsmtp","level":"error","timestamp":"2020-09-26 13:20:15"}
+{"message":"Generic Error: string violation: userPassword cannot be an array or an object","level":"error","timestamp":"2020-09-26 14:41:18"}
+{"message":"Generic Error: data and hash arguments required","level":"error","timestamp":"2020-09-26 15:52:04"}
+{"message":"Generic Error: fn is not a function","level":"error","timestamp":"2020-09-26 18:37:47"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-09-26 19:05:40"}
+{"message":"Generic Error: Unknown column 'roles.user_id' in 'field list'","level":"error","timestamp":"2020-09-26 19:09:34"}
+{"message":"Generic Error: fn is not a function","level":"error","timestamp":"2020-09-26 19:55:56"}
+{"message":"Generic Error: Skill is not associated to Profile!","level":"error","timestamp":"2020-09-27 23:10:07"}
+{"message":"Generic Error: Skill is not associated to Profile!","level":"error","timestamp":"2020-09-27 23:16:37"}
+{"message":"Generic Error: Unknown column 'skill.skill_id' in 'field list'","level":"error","timestamp":"2020-09-27 23:21:22"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-09-30 00:34:41"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-09-30 00:35:43"}
+{"message":"Generic Error: connect ECONNREFUSED 127.0.0.1:3307","level":"error","timestamp":"2020-09-30 00:43:22"}
+{"message":"Generic Error: connect ECONNREFUSED 127.0.0.1:3307","level":"error","timestamp":"2020-09-30 00:44:11"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-09-30 00:45:37"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-09-30 00:46:13"}
+{"message":"Generic Error: connect ECONNREFUSED 127.0.0.1:3307","level":"error","timestamp":"2020-09-30 02:10:41"}
+{"message":"Generic Error: connect ECONNREFUSED 127.0.0.1:3307","level":"error","timestamp":"2020-09-30 02:11:29"}
+{"message":"Generic Error: connect ECONNREFUSED 127.0.0.1:3307","level":"error","timestamp":"2020-09-30 02:12:34"}
+{"message":"Generic Error: connect ECONNREFUSED 127.0.0.1:3307","level":"error","timestamp":"2020-09-30 02:12:49"}
+{"message":"Generic Error: connect ECONNREFUSED 127.0.0.1:3307","level":"error","timestamp":"2020-09-30 02:13:09"}
+{"message":"Generic Error: connect ECONNREFUSED 127.0.0.1:3307","level":"error","timestamp":"2020-09-30 02:14:38"}
+{"message":"Generic Error: connect ECONNREFUSED 127.0.0.1:3307","level":"error","timestamp":"2020-09-30 03:01:37"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-09-30 09:16:52"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-09-30 09:17:48"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-09-30 09:17:55"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-09-30 16:29:28"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-09-30 16:33:16"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-09-30 16:33:48"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-09-30 16:34:47"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-09-30 16:35:59"}
+{"message":"Generic Error: Unknown database 'vorkinsta'","level":"error","timestamp":"2020-09-30 16:59:48"}
+{"message":"Generic Error: Unknown database 'vorkinsta'","level":"error","timestamp":"2020-09-30 17:02:23"}
+{"message":"Generic Error: Unknown database 'vorkinsta'","level":"error","timestamp":"2020-09-30 17:09:15"}
+{"message":"Generic Error: Unknown database 'vorkinsta'","level":"error","timestamp":"2020-09-30 17:09:28"}
+{"message":"Generic Error: Table 'vorkinsta.country' doesn't exist","level":"error","timestamp":"2020-09-30 17:25:30"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 08:17:52"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 08:18:00"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 08:18:16"}
+{"message":"Generic Error: Table 'vorkinsta.country' doesn't exist","level":"error","timestamp":"2020-10-02 08:27:33"}
+{"message":"Generic Error: Table 'vorkinsta.skill' doesn't exist","level":"error","timestamp":"2020-10-02 08:29:54"}
+{"message":"Generic Error: Table 'vorkinsta.skill' doesn't exist","level":"error","timestamp":"2020-10-02 08:30:36"}
+{"message":"Generic Error: Table 'vorkinsta.skill' doesn't exist","level":"error","timestamp":"2020-10-02 08:30:51"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 08:39:36"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 08:39:50"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 08:40:01"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 08:40:16"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 10:40:08"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 10:40:52"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 10:41:59"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 11:18:20"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 11:30:55"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 11:54:58"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 12:30:41"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 12:41:54"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-02 18:12:49"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-03 08:34:50"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 08:37:32"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 08:41:17"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 08:41:50"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 08:43:01"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 08:43:47"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 08:51:35"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 09:05:12"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-03 09:13:02"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-10-03 09:26:34"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 09:33:35"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 09:33:59"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 09:35:04"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 09:42:50"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 09:44:05"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 09:45:29"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 10:01:07"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 10:01:11"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 10:05:36"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-03 10:08:33"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-10-06 12:21:25"}
+{"message":"Generic Error: Unexpected token 2 in JSON at position 0","level":"error","timestamp":"2020-10-06 13:41:35"}
+{"message":"Generic Error: Unexpected token 2 in JSON at position 0","level":"error","timestamp":"2020-10-06 13:45:26"}
+{"message":"Generic Error: The CORS policy for this site does not allow access from the specified Origin.","level":"error","timestamp":"2020-10-06 18:54:49"}
+{"message":"Generic Error: connect ECONNREFUSED 127.0.0.1:3306","level":"error","timestamp":"2020-10-11 00:13:26"}
+{"message":"Generic Error: Unknown database 'vorkinsta'","level":"error","timestamp":"2020-10-11 00:58:21"}
+{"message":"Generic Error: Unknown database 'vorkinsta'","level":"error","timestamp":"2020-10-11 00:58:51"}
+{"message":"Generic Error: Unknown database 'vorkinsta'","level":"error","timestamp":"2020-10-11 00:58:51"}
+{"message":"Generic Error: Table 'vorkinsta.country' doesn't exist","level":"error","timestamp":"2020-10-11 19:41:35"}
+{"message":"Generic Error: Table 'vorkinsta.state' doesn't exist","level":"error","timestamp":"2020-10-11 19:41:35"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-12-08 23:33:53"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-12-08 23:34:06"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-12-08 23:34:13"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-12-08 23:34:21"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-12-08 23:34:40"}
+{"message":"Generic Error: Client does not support authentication protocol requested by server; consider upgrading MySQL client","level":"error","timestamp":"2020-12-08 23:36:36"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-12-08 23:41:55"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-12-08 23:42:11"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-12-08 23:42:26"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-12-08 23:45:51"}
+{"message":"Generic Error: WHERE parameter \"email_id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-12-08 23:45:57"}
